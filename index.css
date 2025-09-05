@@ -141,6 +141,8 @@ section.keyboard > button {
     border: 1px solid #D7D7D7;
     border-radius: 3px;
     cursor: pointer;
+    color: #262626;
+    font-weight: 700;
 }
 
 section.keyboard > button.correct {
