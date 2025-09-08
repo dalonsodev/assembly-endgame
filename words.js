@@ -405,4 +405,4 @@ export const words = [
   "complejo",
   "nuevo",
   "viejo"
-];
+]
